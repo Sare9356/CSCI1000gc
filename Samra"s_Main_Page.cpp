@@ -1,3 +1,3 @@
-<h1>About Me</h1>
-  <h2>Fun Facts About Me:<h2>
+# About me:
+  --> Fun Facts:
     * I am a Colorado native!!
